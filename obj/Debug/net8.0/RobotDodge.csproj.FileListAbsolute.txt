@@ -1,0 +1,14 @@
+C:\Users\zungn\Documents\Code\RobotDodge\bin\Debug\net8.0\RobotDodge.exe
+C:\Users\zungn\Documents\Code\RobotDodge\bin\Debug\net8.0\RobotDodge.deps.json
+C:\Users\zungn\Documents\Code\RobotDodge\bin\Debug\net8.0\RobotDodge.runtimeconfig.json
+C:\Users\zungn\Documents\Code\RobotDodge\bin\Debug\net8.0\RobotDodge.dll
+C:\Users\zungn\Documents\Code\RobotDodge\bin\Debug\net8.0\RobotDodge.pdb
+C:\Users\zungn\Documents\Code\RobotDodge\obj\Debug\net8.0\RobotDodge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zungn\Documents\Code\RobotDodge\obj\Debug\net8.0\RobotDodge.AssemblyInfoInputs.cache
+C:\Users\zungn\Documents\Code\RobotDodge\obj\Debug\net8.0\RobotDodge.AssemblyInfo.cs
+C:\Users\zungn\Documents\Code\RobotDodge\obj\Debug\net8.0\RobotDodge.csproj.CoreCompileInputs.cache
+C:\Users\zungn\Documents\Code\RobotDodge\obj\Debug\net8.0\RobotDodge.dll
+C:\Users\zungn\Documents\Code\RobotDodge\obj\Debug\net8.0\refint\RobotDodge.dll
+C:\Users\zungn\Documents\Code\RobotDodge\obj\Debug\net8.0\RobotDodge.pdb
+C:\Users\zungn\Documents\Code\RobotDodge\obj\Debug\net8.0\RobotDodge.genruntimeconfig.cache
+C:\Users\zungn\Documents\Code\RobotDodge\obj\Debug\net8.0\ref\RobotDodge.dll
