@@ -17,3 +17,6 @@ This C# game project made with SplashKit was a university project, where you try
 6. Type 'skm resources' to create a resources folder for images, sounds, videos etc.
 
 7. After that's all done and you have downloaded the everything here, make sure to type 'skm dotnet run'.
+
+
+![7 2C Screenshot](https://github.com/NguyenMav/Project_CSharp_DodgingRobotGame/assets/149219810/bbf8a05d-b5b0-476c-a82c-b46b55694d44)
